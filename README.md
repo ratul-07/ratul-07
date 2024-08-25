@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ratul Sur</h1>
-<h3 align="center">A passionate individual trying to dive deep into the world of Data</h3>
+<h3 align="center">A passionate individual trying to dive deep into the world of data</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratul-07" alt="ratul-07" /></a> </p>
 
