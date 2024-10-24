@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ratul Sur</h1>
-<h3 align="center">A passionate individual trying to dive deep into the world of data</h3>
+<h3 align="center">A passionate individual trying to dive deep into the world of data science and machine learning</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratul-07" alt="ratul-07" /></a> </p>
 
-- 🌱 I’m currently learning **Azure and PySpark**
+- 🌱 I’m currently learning **NLP and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Data and Cloud Projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Data Science Projects**
 
 - 🤝 I’m looking for help with **Data Engineering**
 
